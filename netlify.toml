@@ -1,0 +1,3 @@
+[build]
+  command = "gunicorn main:app"
+  publish = "."
